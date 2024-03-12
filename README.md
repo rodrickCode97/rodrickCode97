@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Squares-2s-2986px](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/e240c4fa-e225-4a33-be88-663e026a8d54)<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgb(32, 32, 33); display: block; z-index: 1; position: relative; shape-rendering: auto;" width="2986" height="1824" preserveAspectRatio="xMidYMid" viewBox="0 0 2986 1824">
 <g transform="translate(1493,912) scale(1,1) translate(-1493,-912)"><defs>
