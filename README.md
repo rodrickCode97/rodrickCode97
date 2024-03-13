@@ -1,7 +1,6 @@
 
-![Header](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/d5d4e503-7e7f-4efd-bcca-c9265ff62feb)
-)
-![github-header-image (4)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/cb565fca-7522-45cf-8921-c3c712365e7a)
+
+![github-header-image (4)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/3b723f62-dbdc-4514-9ac5-561cce442e70)
 
 
 
