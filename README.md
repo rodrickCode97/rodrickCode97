@@ -1,5 +1,6 @@
 
-![github-header-image (1)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/90dc50fb-6904-4b44-9173-1192574d7e49)
+
+![github-header-image (3)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/bf0a6a33-09a6-4da9-b0f1-ab6dddcdeb7e)
 
 ##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=991&color=51F700&random=false&width=435&lines=Hi%2C+My+name+is+Rodrick+;Software+Engineer+interested+in+;%E2%9C%A8+AR%2C+VR+%E2%9C%A8+;CyberSecurity;Helldivers2)](https://git.io/typing-svg)
 
@@ -7,7 +8,7 @@
 
   📍Madison, WI
   📬RodrickCode@gmail.com
-  [![graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={rodrickCode97}&theme={github_dark})
+
 <!--
 **rodrickCode97/rodrickCode97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
