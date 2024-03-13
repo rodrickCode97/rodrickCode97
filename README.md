@@ -1,6 +1,8 @@
 
 ![Header](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/d5d4e503-7e7f-4efd-bcca-c9265ff62feb)
 )
+![github-header-image (4)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/cb565fca-7522-45cf-8921-c3c712365e7a)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=991&color=51F700&random=false&width=435&lines=Hi%2C+My+name+is+Rodrick+;Software+Engineer+interested+in+;%E2%9C%A8+AR%2C+VR+%E2%9C%A8+;CyberSecurity;Helldivers2)](https://git.io/typing-svg)
