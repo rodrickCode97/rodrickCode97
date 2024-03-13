@@ -1,4 +1,3 @@
-![html-1 1s-200px](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/6b1580f0-93c4-4ff4-8b81-131dae00fc82)
 ![Squares-2s-3000px (1)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/382cc1ef-791a-442f-82ee-3f3034fdab17)<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgb(30, 30, 30); display: block; z-index: 1; position: relative; shape-rendering: auto;" width="3000" height="466" preserveAspectRatio="xMidYMid" viewBox="0 0 3000 466">
 <g transform="translate(1500,233) scale(1,1) translate(-1500,-233)"><defs>
