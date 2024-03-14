@@ -18,7 +18,11 @@
 
 ![Vanilla-1s-280px (1)](https://github.com/rodrickCode97/rodrickCode97/assets/116767605/9a3eb75a-40b4-411e-b010-1e5afaa5879f)
 -- 
-- 🔭 I’m currently working on UN-Manage2 features after showcasing the project to my supervisor and discussing some pain points he had I've created more tickets in my Queue heres the link if you would like to follow along with my progress! 
+- 🔭 I’m currently working on UN-Manage2 features after showcasing the project to my supervisor and discussing some pain points he had I've created more tickets in my Queue heres the link if you would like to follow along with my progress!
+  - links:
+    - [UN-Manage2 Agile Kanban](https://github.com/users/rodrickCode97/projects/2)
+    - [UN-Manage2 Demo](https://unmanage2.onrender.com/)
+    - [UN-Manage2 Codebase](https://github.com/rodrickCode97/UNManage2.git)
 - 🌱 I’m currently learning Cyber-Security pracitices to obtain a compTIA cert!
 - ⚡ Fun fact: I used to study and trade weekly stock options as a hobby.
 
